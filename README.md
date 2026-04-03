@@ -32,3 +32,25 @@ A responsive e-commerce web app built using React that fetches real product data
 ---
 
 ## 📂 Project Structure
+src/
+├── App.jsx
+├── main.jsx
+├── index.css
+
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
+
+# Navigate to project folder
+cd your-repo-name
+
+# Install dependencies
+npm install
+
+# Run the app
+npm run dev
